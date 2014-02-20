@@ -3,6 +3,8 @@
 
   Get the previous element in the tab order
 
+[![Build Status](https://travis-ci.org/stephenmathieson/previous-tabbable-element.png?branch=master)](https://travis-ci.org/stephenmathieson/previous-tabbable-element)
+
 ## Installation
 
   Install with [component(1)](http://component.io):
