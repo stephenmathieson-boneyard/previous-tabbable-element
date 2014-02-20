@@ -2,7 +2,7 @@
   "name": "previous-tabbable-element",
   "repo": "stephenmathieson/previous-tabbable-element",
   "description": "Get the previous element in the tab order",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "stephenmathieson/is-focusable": "0.0.1",
     "stephenmathieson/descendants": "0.1.0",
